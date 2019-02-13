@@ -1,6 +1,11 @@
 {
   "url": "https://d-monitor.herokuapp.com/",
-  "autoPopulate": true,
+  "infoCommand": "!!G-Zone",
   "servers": [
+    {
+      "id": "131490684921315328",
+      "default": true,
+      "listenChannels": ["131490684921315328","528637375996362763","442043454177148938"]
+    }
   ]
 }
