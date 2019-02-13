@@ -1,6 +1,5 @@
 {
-  "url": "https://github.com/vegeta897/d-zone",
-  "infoCommand": "Secret",
+  "url": "https://d-monitor.herokuapp.com/",
   "autoPopulate": true,
   "servers": [
   ]
